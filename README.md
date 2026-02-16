@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;">Hi 👋, I'm Reabetswe Matake</h1>
+<h1 align="center" >Hi 👋, I'm Reabetswe Matake</h1>
 <h3 align="center">A passionate Frontend Developer from South Africa 🇿🇦</h3>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 <h3 align="center">🚀 Projects</h3>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 
 <td width="50%" valign="top">
@@ -88,7 +88,7 @@
 </td>
 
 </tr>
-</table>
+</table >
 
 <p align="center">
 ✨ More projects coming soon — always building, always learning ✨
