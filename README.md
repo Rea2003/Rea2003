@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reabetswe Matake</h1>
+<h1 align="center"  >Hi 👋, I'm Reabetswe Matake</h1>
 <h3 align="center">A passionate Frontend Developer from South Africa 🇿🇦</h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ### 🛠 Languages & Tools
 
-<p align="left"> 
+<p align="left" "> 
 <a href="https://www.arduino.cc/" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
 </a>
@@ -57,6 +57,65 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 </p>
+
+---
+
+### 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🌐 Portfolio Website  
+A responsive personal portfolio showcasing my skills and projects.
+
+🔹 HTML • CSS • JavaScript  
+🔹 Fully responsive design  
+
+👉 <a href="YOUR_PROJECT_LINK">View Project</a>
+
+</td>
+
+<td width="50%">
+
+#### 📊 Dashboard App  
+A frontend dashboard using charts and live data.
+
+🔹 Chart.js • JavaScript  
+🔹 Clean UI & data visualization  
+
+👉 <a href="YOUR_PROJECT_LINK">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🛒 Store Management System  
+Basic product management system with database support.
+
+🔹 C# • SQL Server  
+🔹 CRUD operations  
+
+👉 <a href="YOUR_PROJECT_LINK">View Project</a>
+
+</td>
+
+<td width="50%">
+
+#### 🤖 Arduino Smart Project  
+Hardware + software integration project.
+
+🔹 Arduino • Sensors  
+🔹 Real-world automation  
+
+👉 <a href="YOUR_PROJECT_LINK">View Project</a>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
