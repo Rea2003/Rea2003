@@ -56,7 +56,7 @@ learning continuously, and turning data into insights.
 
 <h3 align="center" >🚀 Projects</h3>
 
-<table width="100%" align="center" style="padding:10%;">
+<table width="100%" align="center" style="">
 
 <tr>
 
