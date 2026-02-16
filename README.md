@@ -8,9 +8,13 @@ An aspiring Business Intelligence Analyst from South Africa 🇿🇦
 </div>
 
 
+
+
 <p align="center">
-📊 Passionate about turning data into insights<br>
-💡 Always learning and improving my technical skills
+Bachelor of Computing student at BelgiumCampus IT Varsity with a strong passion for
+software development, data science, and emerging technologies. I love building projects,
+learning continuously, and turning data into insights.
+
 </p>
 
 <hr>
@@ -18,8 +22,8 @@ An aspiring Business Intelligence Analyst from South Africa 🇿🇦
 <h3>🙋‍♂️ About Me</h3>
 
 <ul>
-  <li>🌱 Currently developing my Business Intelligence, frontend, and full-stack skills</li>
-  <li>📈 I enjoy transforming raw data into meaningful visualizations</li>
+  <li></li> Currently developing my Business Intelligence, Machine Learning, and problem solving skills</li>
+  <li>📈 I enjoy learning new skills </li>
   <li>💻 I love building real-world applications and dashboards</li>
   <li>📫 Reach me at: <strong>ReabetsweMatake@gmail.com</strong></li>
 </ul>
