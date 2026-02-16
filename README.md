@@ -1,9 +1,9 @@
-<h1 align="center" >Hi 👋, I'm Reabetswe Matake</h1>
-<h3 align="center">A passionate Frontend Developer from South Africa 🇿🇦</h3>
+<h1 align="center">Hi 👋, I'm Reabetswe Matake</h1>
+<h3 align="center">An aspiring Business Intelligence Analyst from South Africa 🇿🇦</h3>
 
 <p align="center">
-🚀 I love building user-friendly web interfaces<br>
-💡 Always learning and improving my skills
+📊 Passionate about turning data into insights<br>
+💡 Always learning and improving my technical skills
 </p>
 
 <hr>
@@ -11,8 +11,9 @@
 <h3>🙋‍♂️ About Me</h3>
 
 <ul>
-  <li>🌱 Currently sharpening my frontend and full-stack skills</li>
-  <li>💻 I enjoy turning ideas into real applications</li>
+  <li>🌱 Currently developing my Business Intelligence, frontend, and full-stack skills</li>
+  <li>📈 I enjoy transforming raw data into meaningful visualizations</li>
+  <li>💻 I love building real-world applications and dashboards</li>
   <li>📫 Reach me at: <strong>ReabetsweMatake@gmail.com</strong></li>
 </ul>
 
@@ -45,12 +46,13 @@
 <h3 align="center">🚀 Projects</h3>
 
 <table width="100%" align="center">
+
 <tr>
 
 <td width="50%" valign="top">
 
 <h4>🌐 Portfolio Website</h4>
-<p>Responsive personal portfolio showcasing my skills.</p>
+<p>Responsive personal portfolio showcasing my skills and projects.</p>
 <p>HTML • CSS • JavaScript</p>
 <a href="YOUR_PROJECT_LINK">👉 View Project</a>
 
@@ -59,7 +61,7 @@
 <td width="50%" valign="top">
 
 <h4>📊 Dashboard App</h4>
-<p>Frontend dashboard using charts and live data.</p>
+<p>Interactive dashboard displaying data using charts.</p>
 <p>Chart.js • JavaScript</p>
 <a href="YOUR_PROJECT_LINK">👉 View Project</a>
 
@@ -72,7 +74,7 @@
 <td width="50%" valign="top">
 
 <h4>🛒 Store Management System</h4>
-<p>Product management system with database support.</p>
+<p>Product management system with database integration.</p>
 <p>C# • SQL Server</p>
 <a href="YOUR_PROJECT_LINK">👉 View Project</a>
 
@@ -88,10 +90,11 @@
 </td>
 
 </tr>
-</table >
+
+</table>
 
 <p align="center">
-✨ More projects coming soon — always building, always learning ✨
+✨ More projects coming soon — always learning, always building ✨
 </p>
 
 <hr>
@@ -109,7 +112,7 @@
 <hr>
 
 <p align="center">
-🔥 Learning by building real projects — every bug teaches me something new 😄
+🔥 Learning through real projects — every challenge is a lesson 😄
 </p>
 
 
