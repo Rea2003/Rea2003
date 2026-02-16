@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Reabetswe Matake</h1>
-<h3 align="center">An aspiring Business Intelligence Analyst from South Africa 🇿🇦</h3>
+<div style="color:blue; padding:20px; border-radius:10px;">
+
+<h1 align="center" style="color:white;">Hi 👋, I'm Reabetswe Matake</h1>
+<h3 align="center" style="color:white;">
+An aspiring Business Intelligence Analyst from South Africa 🇿🇦
+</h3>
+
+</div>
+
 
 <p align="center">
 📊 Passionate about turning data into insights<br>
