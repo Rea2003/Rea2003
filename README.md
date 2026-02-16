@@ -22,7 +22,7 @@ learning continuously, and turning data into insights.
 <h3>🙋‍♂️ About Me</h3>
 
 <ul>
-  <li></li> Currently developing my Business Intelligence, Machine Learning, and problem solving skills</li>
+  <li>Currently developing my Business Intelligence, Machine Learning, and problem solving skills</li>
   <li>📈 I enjoy learning new skills </li>
   <li>💻 I love building real-world applications and dashboards</li>
   <li>📫 Reach me at: <strong>ReabetsweMatake@gmail.com</strong></li>
