@@ -72,7 +72,7 @@ learning continuously, and turning data into insights.
 <td width="50%" valign="top">
 
 <h4>📊 FitXlog Dashboard Web App</h4>
-<p>Interactive dashboard displaying workout data using charts.</p>
+<p>FitXLog is a responsive web application designed for personal fitness management and progress visualization. Users can set custom health goals, log various workout types including running, cycling, and strength training and track metrics like duration and calories burned. The platform features dynamic data visualization through Chart.js bar and pie charts to analyze performance trends, alongside motivational tools like a 7-day challenge countdown and achievement badges.</p>
 <p>Chart.js • JavaScript</p>
 <a href="YOUR_PROJECT_LINK">👉 View Project</a>
 
