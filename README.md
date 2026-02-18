@@ -71,8 +71,8 @@ learning continuously, and turning data into insights.
 
 <td width="50%" valign="top">
 
-<h4>📊 Dashboard App</h4>
-<p>Interactive dashboard displaying data using charts.</p>
+<h4>📊 FitXlog Dashboard Web App</h4>
+<p>Interactive dashboard displaying workout data using charts.</p>
 <p>Chart.js • JavaScript</p>
 <a href="YOUR_PROJECT_LINK">👉 View Project</a>
 
