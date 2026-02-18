@@ -94,8 +94,8 @@ learning continuously, and turning data into insights.
 <td width="50%" valign="top">
 
 <h4>🤖 Arduino Smart Project</h4>
-<p>Hardware + software automation project.</p>
-<p>Arduino • Sensors</p>
+<p>This project features an Arduino UNO-based smoke and gas detector designed to provide localized safety alerts through an MQ-2 sensor. The system processes analog data to trigger an audible buzzer and a red LED alarm when smoke or gas levels exceed a set threshold. Real-time status updates, such as "SAFE" or "DANGER," are displayed on a 16x2 LCD screen, and a manual push button allows for temporary silencing of the alarm. While effective as a cost-effective safety prototype, future enhancements could include battery backups and remote notification capabilities.</p>
+<p>Arduino • Tinkercad</p>
 <a href="YOUR_PROJECT_LINK">👉 View Project</a>
 
 </td>
