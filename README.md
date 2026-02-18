@@ -65,7 +65,7 @@ learning continuously, and turning data into insights.
 <h4>🚓Maximum Security Services</h4>
 <p>This project developed a centralized SQL Server 2022 database for Maximum Security Services to replace fragmented manual records. Created by Anele Nkayi, Tristan Roets, Reabetswe Matake, and Dillon Wolmarans, the system uses a 3NF architecture to unify client data, incident logs, and automated billing. It enhances operational efficiency with real-time SLA tracking and ensures strict POPIA compliance through robust encryption and auditing.</p>
 <p>Tsql</p>
-<a href="YOUR_PROJECT_LINK">👉 View Project</a>
+<a href="">👉 View Project</a>
 
 </td>
 
