@@ -1,131 +1,93 @@
-<div style="color:blue; padding:20px; border-radius:10px;">
+<div align="center">
 
-<h1 align="center" style="color:white;">Hi 👋, I'm Reabetswe Matake</h1>
-<h3 align="center" style="color:white;">
-An aspiring Business Intelligence Analyst from South Africa 🇿🇦
-</h3>
+# REABETSWE MATAKE
+
+### Aspiring Business Intelligence Analyst
+
+Germiston, South Africa&nbsp;&nbsp;|&nbsp;&nbsp;[ReabetsweMatake@gmail.com](mailto:ReabetsweMatake@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/)&nbsp;&nbsp;|&nbsp;&nbsp;[github.com/Rea2003](https://github.com/Rea2003)
+
+---
 
 </div>
 
+## Professional Summary
 
+Bachelor of Computing student at Belgium Campus ITversity with a strong passion for software development, data science, and emerging technologies. I love building projects, learning continuously, and turning data into insights.
 
+- 🌱 Currently developing my Business Intelligence, Machine Learning, and problem-solving skills
+- 💻 I love building real-world applications and dashboards
+- 😊 Always learning — every project is a chance to pick up something new
 
-<p align="center">
-Bachelor of Computing student at BelgiumCampus IT Varsity with a strong passion for
-software development, data science, and emerging technologies. I love building projects,
-learning continuously, and turning data into insights.
+---
 
-</p>
+## Technical Skills
 
-<hr>
+**Programming Languages:** Python, C#, JavaScript, C++
 
-<h3>🙋‍♂️ About Me</h3>
+**Database & Querying:** Transact-SQL, SQL Server 2022, Database Design, Data Modeling, ETL Concepts
 
-<ul>
-  <li>🌱 Currently developing my Business Intelligence, Machine Learning, and problem solving skills</li>
-  <li>😊 I enjoy learning new skills</li>
-  <li>💻 I love building real-world applications and dashboards</li>
-  <li>📫 Reach me at: <strong>ReabetsweMatake@gmail.com</strong></li>
-</ul>
+**Web Technologies:** HTML & CSS, Chart.js, Responsive Web Design
 
-<hr>
+**Data & Analytics:** Microsoft Excel, Data Analysis, Business Intelligence, Data Visualization, Dashboard Development
 
-<h3>🤝 Connect With Me</h3>
+**Tools & Platforms:** GitHub, Visual Studio, SQL Server Management Studio (SSMS), Tinkercad, Arduino IDE
 
 <p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" title="C#"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" title="SQL Server"/>
+<img src="https://www.chartjs.org/media/logo-title.svg" width="36" title="Chart.js"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36" title="Arduino"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" title="Node.js"/>
+</p>
+
+---
+
+## Projects
+
+**Maximum Security Services — Database Management System**
+*SQL Server 2022, T-SQL, Database Design*
+Designed a 3NF-normalized SQL Server database (with Anele Nkayi, Tristan Roets, and Dillon Wolmarans) unifying client data, incident logs, and automated billing for a security services company. Implemented real-time SLA tracking and POPIA-compliant encryption with audit logging.
+[👉 View Project](https://github.com/Rea2003/Maximum-Security-Services.git)
+
+**FitXlog Dashboard Web App**
+*JavaScript, Chart.js, HTML, CSS*
+Built a responsive fitness tracking web app with dynamic Chart.js visualizations for workout trends and calorie analytics, plus goal-setting features, a 7-day challenge system, and achievement badges.
+[👉 View Project](YOUR_PROJECT_LINK)
+
+**Store Management System**
+*C#, SQL Server*
+Product management system with database integration.
+[👉 View Project](YOUR_PROJECT_LINK)
+
+**Arduino Smart Smoke & Gas Detector**
+*Arduino UNO, C++, MQ-2 Sensor*
+Prototyped an IoT safety device using an MQ-2 sensor to detect smoke and gas levels in real time, with alarm triggers, an LCD status display, and a manual silencer.
+[👉 View Project](https://github.com/Rea2003/Gas-Smoke-Dection-System.git)
+
+<p align="center"><i>✨ More projects coming soon — always learning, always building ✨</i></p>
+
+---
+
+## Languages
+
+**Sesotho:** Native&nbsp;&nbsp;|&nbsp;&nbsp;**Setswana:** Fluent&nbsp;&nbsp;|&nbsp;&nbsp;**English:** Intermediate&nbsp;&nbsp;|&nbsp;&nbsp;**Zulu:** Intermediate
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rea2003&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rea2003&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
 <a href="mailto:ReabetsweMatake@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-1A1A2E?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
-
-<hr>
-
-<h3>🛠 Languages & Tools</h3>
-
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-<img src="https://www.chartjs.org/media/logo-title.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</p>
-
-<hr>
-
-<h3 align="center" >🚀 Projects</h3>
-
-<table width="100%" align="center" style="">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h4>🚓Maximum Security Services</h4>
-<p>This project developed a centralized SQL Server 2022 database for Maximum Security Services to replace fragmented manual records. Created by Anele Nkayi, Tristan Roets, Reabetswe Matake, and Dillon Wolmarans, the system uses a 3NF architecture to unify client data, incident logs, and automated billing. It enhances operational efficiency with real-time SLA tracking and ensures strict POPIA compliance through robust encryption and auditing.</p>
-<p>Tsql</p>
-<a href="https://github.com/Rea2003/Maximum-Security-Services.git">👉 View Project</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h4>📊 FitXlog Dashboard Web App</h4>
-<p>FitXLog is a responsive web application designed for personal fitness management and progress visualization. Users can set custom health goals, log various workout types including running, cycling, and strength training and track metrics like duration and calories burned. The platform features dynamic data visualization through Chart.js bar and pie charts to analyze performance trends, alongside motivational tools like a 7-day challenge countdown and achievement badges.</p>
-<p>Chart.js • JavaScript</p>
-<a href="YOUR_PROJECT_LINK">👉 View Project</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h4>🛒 Store Management System</h4>
-<p>Product management system with database integration.</p>
-<p>C# • SQL Server</p>
-<a href="YOUR_PROJECT_LINK">👉 View Project</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h4>🤖 Arduino Smart Project</h4>
-<p>This project features an Arduino UNO-based smoke and gas detector designed to provide localized safety alerts through an MQ-2 sensor. The system processes analog data to trigger an audible buzzer and a red LED alarm when smoke or gas levels exceed a set threshold. Real-time status updates, such as "SAFE" or "DANGER," are displayed on a 16x2 LCD screen, and a manual push button allows for temporary silencing of the alarm. While effective as a cost-effective safety prototype, future enhancements could include battery backups and remote notification capabilities.</p>
-<p>Arduino • Tinkercad</p>
-<a href="https://github.com/Rea2003/Gas-Smoke-Dection-System.git">👉 View Project</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<p align="center">
-✨ More projects coming soon — always learning, always building ✨
-</p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
-</p>
-
-<hr>
-
-<p align="center">
-🔥 Learning through real projects — every challenge is a lesson 😄
-</p>
-
-
-
-
