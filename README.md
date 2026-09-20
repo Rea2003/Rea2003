@@ -2,7 +2,6 @@
 
 # REABETSWE MATAKE
 
-<sub>Python Specialist</sub>
 
 Germiston, South Africa&nbsp;&nbsp;|&nbsp;&nbsp;[ReabetsweMatake@gmail.com](mailto:ReabetsweMatake@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/)&nbsp;&nbsp;|&nbsp;&nbsp;[github.com/Rea2003](https://github.com/Rea2003)
 
