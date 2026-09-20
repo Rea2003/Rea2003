@@ -55,11 +55,6 @@ Designed a 3NF-normalized SQL Server database (with Anele Nkayi, Tristan Roets, 
 Built a responsive fitness tracking web app with dynamic Chart.js visualizations for workout trends and calorie analytics, plus goal-setting features, a 7-day challenge system, and achievement badges.
 [👉 View Project](YOUR_PROJECT_LINK)
 
-**Store Management System**
-*C#, SQL Server*
-Product management system with database integration.
-[👉 View Project](YOUR_PROJECT_LINK)
-
 **Arduino Smart Smoke & Gas Detector**
 *Arduino UNO, C++, MQ-2 Sensor*
 Prototyped an IoT safety device using an MQ-2 sensor to detect smoke and gas levels in real time, with alarm triggers, an LCD status display, and a manual silencer.
