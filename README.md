@@ -11,7 +11,7 @@ Germiston, South Africa&nbsp;&nbsp;|&nbsp;&nbsp;[ReabetsweMatake@gmail.com](mail
 
 ## Professional Summary
 
-Bachelor of Computing student at Belgium Campus ITversity with a strong passion for software development, data science, and emerging technologies. I love building projects, learning continuously, and turning data into insights.
+Bachelor of Computing student at Belgium Campus ITversity with a strong passion for software data science, and emerging technologies. I love building projects, learning continuously, and turning data into insights.
 
 - 🌱 Currently developing my Business Intelligence, Machine Learning, and problem-solving skills
 - 💻 I love building real-world applications and dashboards
