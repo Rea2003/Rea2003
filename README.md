@@ -2,7 +2,7 @@
 
 # REABETSWE MATAKE
 
-Germiston, South Africa  |  [ReabetsweMatake@gmail.com](mailto:ReabetsweMatake@gmail.com)  |  [LinkedIn](https://www.linkedin.com/)  |  [github.com/Rea2003](https://github.com/Rea2003)
+Germiston, South Africa  |  [ReabetsweMatake@gmail.com](mailto:ReabetsweMatake@gmail.com)  |  [github.com/Rea2003](https://github.com/Rea2003)
 
 ---
 
@@ -10,10 +10,10 @@ Germiston, South Africa  |  [ReabetsweMatake@gmail.com](mailto:ReabetsweMata
 
 ## Professional Summary
 
-Bachelor of Computing student at Belgium Campus ITversity with a strong passion for software, data science, and emerging technologies. I love building projects, learning continuously, and turning data into insights.
+Bachelor of Computing student at Belgium Campus ITversity with a strong passion for software and emerging technologies. I love building projects, learning continuously, researching another aspect of life outside tech.
 
 * 🌱 Currently developing my Business Intelligence, Machine Learning, and problem-solving skills
-* 💻 I love building real-world applications and dashboards
+* 💻 I love researching and sharing my findings with others.
 * 😊 Always learning — every project is a chance to pick up something new
 
 ---
@@ -70,7 +70,7 @@ Prototyped an IoT safety device using an MQ-2 sensor to detect smoke and gas lev
 
 ## 🎨 Beyond Tech
 
-Outside of computing, I also enjoy exploring **music, poetry, visual storytelling, and creative projects**.
+Outside of tech, I enjoy exploring **music, poetry, visual storytelling, and creative projects**.
 
 I use these creative projects as another way to express ideas, emotions, and experiences while continuing to learn new skills.
 
@@ -78,13 +78,9 @@ I use these creative projects as another way to express ideas, emotions, and exp
 
 **Reah23 — I Forgave You**
 
-My second-ever beat and one of my first visual projects, combining an original beat with cinematic visuals and storytelling.
+My second-ever beat and one of my first visual projects, combining an original beat with cinematic visuals and storytelling, this record means a lot to me because I've always wanted to explore music ever since i was young.So i finally got to do so with this record by using bandlab and Clipchamp to edit the visual project.  
 
-<p align="center">
-  <a href="https://youtu.be/WARZpewlA1w">
-    <img src="https://img.youtube.com/vi/WARZpewlA1w/maxresdefault.jpg" width="700" alt="Reah23 - I Forgave You">
-  </a>
-</p>
+[![Reah23 - I Forgave You](https://ytcards.demolab.com/?id=WARZpewlA1w&title=Reah23+-+I+Forgave+You&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Reah23 - I Forgave You")](https://www.youtube.com/watch?v=WARZpewlA1w)
 
 <p align="center">
   <b>▶️ Click the image to watch on YouTube</b>
