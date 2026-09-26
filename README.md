@@ -2,7 +2,7 @@
 
 # REABETSWE MATAKE
 
-Germiston, South Africa  |  [ReabetsweMatake@gmail.com](mailto:ReabetsweMatake@gmail.com)  |  [github.com/Rea2003](https://github.com/Rea2003)
+Germiston, South Africa  |  [ReabetsweMatake@gmail.com](mailto:ReabetsweMatake@gmail.com)  |  [Portfolio](https://rea2003.github.io/ReabetsweMakeportfolio/)
 
 ---
 
