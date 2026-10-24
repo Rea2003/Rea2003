@@ -1,20 +1,46 @@
 <div align="center">
 
-![Reabetswe Matake](profile-card-embedded.svg)
+![Reabetswe Matake](banner.svg)
 
 Germiston, South Africa · [Portfolio](https://rea2003.github.io/ReabetsweMakeportfolio/) · [GitHub](https://github.com/Rea2003) · [Email](mailto:ReabetsweMatake@gmail.com)
 
 </div>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+<h2>Building With Purpose</h2>
+
+<p>I design and build <b>databases, dashboards, and small intelligent systems</b>, from SQL Server back ends to interactive web visualizations and Arduino prototypes.</p>
+
+<p>My focus is on turning raw data and real-world problems into clean, reliable, and useful tools that create real change in my community.</p>
+
+<table>
+<tr>
+<td><b>Languages</b><br><sub>Python · C# · JavaScript · C++</sub></td>
+<td><b>Data &amp; BI</b><br><sub>Power BI · Excel · Chart.js</sub></td>
+</tr>
+<tr>
+<td><b>Databases</b><br><sub>T-SQL · SQL Server 2022 · ETL</sub></td>
+<td><b>Tools</b><br><sub>GitHub · Visual Studio · SSMS · Arduino IDE</sub></td>
+</tr>
+</table>
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="profile-photo.png" alt="Reabetswe Matake" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ## About Me
 
 My passion for technology began in Grade 6 in Katlehong. With no laptop at home, I taught myself HTML and CSS on the Sololearn app, downloading lessons over public Wi-Fi to study offline, and later wrote my school IT project code by hand in a workbook.
 
 Today I'm a final-year Bachelor of Computing student specializing in **Business Intelligence**, driven to build technology that creates real change in my community.
-
-| **Languages**<br>Python · C# · JavaScript · C++ | **Data & BI**<br>Power BI · Excel · Chart.js · Data Visualization |
-|-------------------------------------------------|-------------------------------------------------------------------|
-| **Databases**<br>T-SQL · SQL Server 2022 · ETL · Data Modelling | **Tools**<br>GitHub · Visual Studio · SSMS · Tinkercad · Arduino IDE |
 
 **Core competencies:** Database Normalization (3NF) · Data Warehousing · SLA Tracking · POPIA Compliance · Problem Solving · Team Collaboration
 
@@ -57,6 +83,19 @@ Katlehong Secondary School · January 2018 – December 2022
 - Built with Anele Nkayi, Tristan Roets, and Dillon Wolmarans
 
 [View project →](https://github.com/Rea2003/Maximum-Security-Services)
+
+### HeroLegends: Superhero Management System
+`C#` `.NET Framework 4.7.2` `WinForms` `MaterialSkin` `LiveCharts`
+
+A desktop application for capturing, updating, and monitoring superhero data, with a clean 3-layer architecture (presentation, business, and data layers).
+
+- Full CRUD for hero records in a structured DataGridView, with validation and duplicate Hero ID prevention
+- Automatic rank assignment (S, A, B, C) from exam score, plus automatic threat level classification
+- Real-time UI refresh using `FileSystemWatcher`, which monitors the text-file data store for changes
+- Interactive dashboard with LiveCharts for hero statistics and performance insights, in a Material Design UI
+- Built with Ngcebo Enock Mntungwa and Nyameko Kraai (Group 21)
+
+[View project →](https://github.com/Rea2003/HeroLegends)
 
 ### FitXlog: Dashboard Web App
 `JavaScript` `Chart.js` `HTML` `CSS`
