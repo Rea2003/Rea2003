@@ -119,14 +119,33 @@ A desktop application for capturing, updating, and monitoring superhero data, wi
 
 ## Certifications
 
-**Introduction to SQL**· Sololearn · Completed 24 July 2024
-SQL fundamentals covering querying, filtering, joins, aggregation, and data extraction.
-[View here](https://www.sololearn.com/certificates/CC-FPXNENW2) 
-<br>
-<img src="sololearn_certificate.svg">
-
-**Machine Learning for Beginners** · Sololearn
+<table>
+<tr>
+<th align="left" width="45%">Details</th>
+<th align="center" width="55%">Certificate</th>
+</tr>
+<tr>
+<td valign="top">
+<b>Introduction to SQL</b><br>
+Sololearn · Completed 24 July 2024<br><br>
+SQL fundamentals covering querying, filtering, joins, aggregation, and data extraction.<br><br>
+<a href="https://www.sololearn.com/certificates/CC-FPXNENW2">View certificate →</a>
+</td>
+<td valign="middle" align="center">
+<a href="https://www.sololearn.com/certificates/CC-FPXNENW2"><img src="sololearn_certificate.svg" alt="Introduction to SQL certificate" width="100%"/></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>Machine Learning for Beginners</b><br>
+Sololearn<br><br>
 Hands-on training in machine learning fundamentals, including training and testing models and using generative AI.
+</td>
+<td valign="middle" align="center">
+<i>Certificate image coming soon</i>
+</td>
+</tr>
+</table>
 
 ---
 
