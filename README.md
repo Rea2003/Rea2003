@@ -1,6 +1,6 @@
 <div align="center">
 
-![Reabetswe Matake](banner.svg)
+![Reabetswe Matake](profile-card-embedded.svg)
 
 Germiston, South Africa · [Portfolio](https://rea2003.github.io/ReabetsweMakeportfolio/) · [GitHub](https://github.com/Rea2003) · [Email](mailto:ReabetsweMatake@gmail.com)
 
