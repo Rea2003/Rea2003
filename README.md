@@ -45,17 +45,13 @@ Today I'm a final-year Bachelor of Computing student specializing in **Business 
 **Core competencies:** Database Normalization (3NF) · Data Warehousing · SLA Tracking · POPIA Compliance · Problem Solving · Team Collaboration
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" title="C#"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" title="C++"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" title="SQL Server"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36" title="Arduino"/>
+<img src="tech-stack.svg" alt="Tech stack: Python, C#, JavaScript, C++, T-SQL, Power BI, Excel, Arduino" width="100%"/> 
 </p>
 
 <p align="center">
 <a href="https://rea2003.github.io/ReabetsweMakeportfolio/"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 <a href="mailto:ReabetsweMatake@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A2E?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.bandlab.com/reabetswematake"><img src="https://img.shields.io/badge/BandLab-1A1A2E?style=for-the-badge&logo=bandlab&logoColor=white"></a>
 </p>
 
 ---
