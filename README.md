@@ -2,7 +2,7 @@
 
 ![Reabetswe Matake](profile-card-embedded.svg)
 
-Germiston, South Africa · [Portfolio](https://rea2003.github.io/ReabetsweMakeportfolio/) · [GitHub](https://github.com/Rea2003) · [Email](mailto:ReabetsweMatake@gmail.com)
+Germiston, South Africa · [Portfolio](https://rea2003.github.io/ReabetsweMakeportfolio/) · [MyCV](https://docs.google.com/document/d/1SE71ni3BMIds-4vWpM8O-Sx9RIsTlrfG/edit?usp=drive_link&ouid=111301869737311341755&rtpof=true&sd=true) · [Email](mailto:ReabetsweMatake@gmail.com) 
 
 </div>
 
