@@ -30,7 +30,7 @@ Germiston, South Africa · [Portfolio](https://rea2003.github.io/ReabetsweMakepo
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="profile-photo.png" alt="Reabetswe Matake" width="100%"/>
+<img src="reaanimated.svg" alt="Reabetswe Matake" width="100%"/>
 
 </td>
 </tr>
