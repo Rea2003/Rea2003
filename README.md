@@ -150,9 +150,6 @@ Hands-on training in machine learning fundamentals, including training and testi
 
 Outside of tech I explore **music, poetry, visual storytelling, and creative projects**, another way to express ideas while learning new skills.
 
-**Reah23: I Forgave You**
-
-My second-ever beat and one of my first visual projects. I've wanted to explore music since I was young, so I made this record with BandLab and edited the visuals in Clipchamp.
 
 [![Reah23 - I Forgave You](https://ytcards.demolab.com/?id=WARZpewlA1w&title=Reah23+-+I+Forgave+You&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Reah23 - I Forgave You")](https://www.youtube.com/watch?v=WARZpewlA1w)
 
