@@ -138,11 +138,12 @@ SQL fundamentals covering querying, filtering, joins, aggregation, and data extr
 <tr>
 <td valign="top">
 <b>Machine Learning for Beginners</b><br>
-Sololearn<br><br>
-Hands-on training in machine learning fundamentals, including training and testing models and using generative AI.
+Sololearn · Completed 26 september 2026<br><br>
+Hands-on training in machine learning fundamentals, including training and testing models and using generative AI.<br><br>
+<a href="https://www.sololearn.com/certificates/CC-NQHM1GR7">View certificate →</a>
 </td>
 <td valign="middle" align="center">
-<i>Certificate image coming soon</i>
+<a href="https://www.sololearn.com/certificates/CC-FPXNENW2"><img src="sololearn_ml_certificate (1).svg" alt="Introduction to SQL certificate" width="100%"/></a>
 </td>
 </tr>
 </table>
