@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Tech stack: Python, C#, JavaScript, C++, T-SQL, Power BI, Excel, Arduino">
+  <style>
+    text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .tile  { transform-box: fill-box; transform-origin: 50% 100%; animation: jump 2.4s cubic-bezier(.3,.7,.4,1) infinite; }
+    .shade { transform-box: fill-box; transform-origin: center; animation: shade 2.4s cubic-bezier(.3,.7,.4,1) infinite; }
+    .t1 { animation-delay: 0s; }    .t2 { animation-delay: .15s; } .t3 { animation-delay: .3s; }
+    .t4 { animation-delay: .45s; }  .t5 { animation-delay: .6s; }  .t6 { animation-delay: .75s; }
+    .t7 { animation-delay: .9s; }   .t8 { animation-delay: 1.05s; }
+    .glyph { font-size: 26px; font-weight: 800; }
+    .label { font-size: 12px; fill: #8b98a9; }
+    @keyframes jump {
+      0%, 55%, 100% { transform: translateY(0) scale(1, 1); }
+      6%            { transform: translateY(0) scale(1.1, .86); }
+      28%           { transform: translateY(-34px) scale(.94, 1.08); }
+      48%           { transform: translateY(0) scale(1.08, .9); }
+      52%           { transform: translateY(0) scale(.98, 1.03); }
+    }
+    @keyframes shade {
+      0%, 55%, 100% { transform: scale(1); opacity: .35; }
+      28%           { transform: scale(.6); opacity: .15; }
+    }
+  </style>
+
+  <!-- ground shadows -->
+  <g fill="#000">
+    <ellipse class="shade t1" cx="65"  cy="112" rx="30" ry="5"/>
+    <ellipse class="shade t2" cx="175" cy="112" rx="30" ry="5"/>
+    <ellipse class="shade t3" cx="285" cy="112" rx="30" ry="5"/>
+    <ellipse class="shade t4" cx="395" cy="112" rx="30" ry="5"/>
+    <ellipse class="shade t5" cx="505" cy="112" rx="30" ry="5"/>
+    <ellipse class="shade t6" cx="615" cy="112" rx="30" ry="5"/>
+    <ellipse class="shade t7" cx="725" cy="112" rx="30" ry="5"/>
+    <ellipse class="shade t8" cx="835" cy="112" rx="30" ry="5"/>
+  </g>
+
+  <!-- tiles -->
+  <g class="tile t1"><rect x="31"  y="44" width="68" height="68" rx="16" fill="#3776AB"/><text class="glyph" x="65"  y="88" fill="#FFD43B">Py</text></g>
+  <g class="tile t2"><rect x="141" y="44" width="68" height="68" rx="16" fill="#68217A"/><text class="glyph" x="175" y="88" fill="#ffffff">C#</text></g>
+  <g class="tile t3"><rect x="251" y="44" width="68" height="68" rx="16" fill="#F7DF1E"/><text class="glyph" x="285" y="88" fill="#1a1a1a">JS</text></g>
+  <g class="tile t4"><rect x="361" y="44" width="68" height="68" rx="16" fill="#00599C"/><text class="glyph" x="395" y="88" fill="#ffffff">C++</text></g>
+  <g class="tile t5"><rect x="471" y="44" width="68" height="68" rx="16" fill="#CC2927"/><text class="glyph" x="505" y="88" fill="#ffffff">SQL</text></g>
+  <g class="tile t6"><rect x="581" y="44" width="68" height="68" rx="16" fill="#F2C811"/><text class="glyph" x="615" y="88" fill="#1a1a1a">BI</text></g>
+  <g class="tile t7"><rect x="691" y="44" width="68" height="68" rx="16" fill="#217346"/><text class="glyph" x="725" y="88" fill="#ffffff">XL</text></g>
+  <g class="tile t8"><rect x="801" y="44" width="68" height="68" rx="16" fill="#00979D"/><text class="glyph" x="835" y="88" fill="#ffffff">Ard</text></g>
+
+  <!-- labels -->
+  <text class="label" x="65"  y="136">Python</text>
+  <text class="label" x="175" y="136">C#</text>
+  <text class="label" x="285" y="136">JavaScript</text>
+  <text class="label" x="395" y="136">C++</text>
+  <text class="label" x="505" y="136">T-SQL</text>
+  <text class="label" x="615" y="136">Power BI</text>
+  <text class="label" x="725" y="136">Excel</text>
+  <text class="label" x="835" y="136">Arduino</text>
+</svg>
